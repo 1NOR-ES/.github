@@ -1,4 +1,4 @@
-<p align="center"><a href="https://1nor.es" target="_blank"><img src="../LogoGradient.jpg" width="180" style="border-radius: 180px;"></a></p>
+<p align="center"><a href="https://1nor.es" target="_blank"><img src="./LogoGradient.jpg" width="180" style="border-radius: 180px;"></a></p>
 
 
 ## Sobre 1nor.es
